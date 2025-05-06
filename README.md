@@ -1,24 +1,22 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![з4](https://github.com/user-attachments/assets/73462f84-7e6c-4b96-b84c-202651336028)
+![з6](https://github.com/user-attachments/assets/d736278f-d3bb-468e-b16a-9314583662d1)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/H_UCcJqsLRM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-На зеленой солнечной опушке
-Прыгают зеленые лягушки
-И танцуют бабочки-подружки,
-Расцветает все кругом.<br><br>
+Мы в дороге с песенкой о лете,
+Самой лучшей песенкой на свете,
+Мы в лесу ежа, быть может, встретим,
+Хорошо, что дождь прошел.<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![з4](https://github.com/user-attachments/assets/73462f84-7e6c-4b96-b84c-202651336028)
+![з6](https://github.com/user-attachments/assets/d736278f-d3bb-468e-b16a-9314583662d1)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/2GTOpETta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Na zelenoj solnechnoj opushke
-Prygayut zelenye lyagushki
-I tancuyut babochki-podruzhki,
-Rascvetaet vse krugom.<br><br>
+My v doroge s pesenkoj o lete,
+Samoj luchshej pesenkoj na svete,
+My v lesu ezha, byt' mozhet, vstretim,
+Horosho, chto dozhd' proshel.<br><br>
 
-![з6](https://github.com/user-attachments/assets/d736278f-d3bb-468e-b16a-9314583662d1)
-![з5](https://github.com/user-attachments/assets/5be7d8e2-ee6e-4d91-a68e-cd0c725cd26b)
