@@ -20,3 +20,5 @@ Prygayut zelenye lyagushki
 I tancuyut babochki-podruzhki,
 Rascvetaet vse krugom.<br><br>
 
+![з6](https://github.com/user-attachments/assets/d736278f-d3bb-468e-b16a-9314583662d1)
+![з5](https://github.com/user-attachments/assets/5be7d8e2-ee6e-4d91-a68e-cd0c725cd26b)
