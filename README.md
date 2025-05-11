@@ -2,7 +2,7 @@
 
 ![з6](https://github.com/user-attachments/assets/d736278f-d3bb-468e-b16a-9314583662d1)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/H_UCcJqsLRM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/HI4AZRErEZA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Мы в дороге с песенкой о лете,
 Самой лучшей песенкой на свете,
@@ -15,7 +15,7 @@
 
 ![з6](https://github.com/user-attachments/assets/d736278f-d3bb-468e-b16a-9314583662d1)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/2GTOpETta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/ZEyRDlF3rAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 My v doroge s pesenkoj o lete,
 Samoj luchshej pesenkoj na svete,
