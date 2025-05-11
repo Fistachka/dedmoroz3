@@ -7,7 +7,9 @@
 Мы в дороге с песенкой о лете,
 Самой лучшей песенкой на свете,
 Мы в лесу ежа, быть может, встретим,
-Хорошо, что дождь прошел.<br><br>
+Хорошо, что дождь прошел.
+
+Предыдущий урок: stolbitsa.com/fistachka/dedmoroz2<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -18,5 +20,7 @@
 My v doroge s pesenkoj o lete,
 Samoj luchshej pesenkoj na svete,
 My v lesu ezha, byt' mozhet, vstretim,
-Horosho, chto dozhd' proshel.<br><br>
+Horosho, chto dozhd' proshel.
+
+Previous lesson: stolbitsa.com/fistachka/dedmoroz2<br><br>
 
